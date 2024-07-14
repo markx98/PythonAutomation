@@ -27,8 +27,8 @@ pip install pyautogui pandas openpyxl numpy
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/markx98/Python-Automation.git
-   cd Python-Automation
+   git clone https://github.com/markx98/PythonAutomation.git
+   cd PythonAutomation
    ```
 
 2. **Prepare Your Data:**
@@ -46,9 +46,9 @@ pip install pyautogui pandas openpyxl numpy
 ## Project Structure
 
 ```
-Python-Automation/
+PythonAutomation/
 ├── Auto/
-│   ├── code.py         # Automation script
+│   ├── code.py         # Automation
 │   └── products.csv    # Example product data
 ├── Screen-coordinates/
 │   └── ScreenMark.py   # Screen coordinates marking
